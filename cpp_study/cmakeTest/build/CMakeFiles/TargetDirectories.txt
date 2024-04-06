@@ -1,0 +1,3 @@
+/mnt/d/C++_code/cpp_study/cmakeTest/build/CMakeFiles/test.dir
+/mnt/d/C++_code/cpp_study/cmakeTest/build/CMakeFiles/edit_cache.dir
+/mnt/d/C++_code/cpp_study/cmakeTest/build/CMakeFiles/rebuild_cache.dir
